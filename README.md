@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# SELMS-FE
+This project was developed in fulfilment of my
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
